@@ -1,0 +1,22 @@
+:root {
+  --bg: #0e0d0b;
+  --bg-2: #14120f;
+  --bg-3: #1a1713;
+  --ink: #f3ede3;
+  --ink-2: #c9c0b2;
+  --muted: #978c7d;
+  --line: rgba(243, 237, 227, 0.14);
+  --line-soft: rgba(243, 237, 227, 0.08);
+  --accent: #a32638;
+  --accent-deep: #7c1d2b;
+  --accent-soft: rgba(163, 38, 56, 0.16);
+  --error: #e88a8a;
+  --success: #9fd3a8;
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-body: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --wrap: 1240px;
+  --gutter: clamp(20px, 5vw, 64px);
+  --section: clamp(72px, 10vw, 136px);
+  --radius: 4px;
+  --header-h: 76px;
+}

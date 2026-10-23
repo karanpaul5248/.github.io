@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karanpaul5248.github.io/sitemap.xml
