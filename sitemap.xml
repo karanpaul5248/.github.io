@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Hash routing is used for reliable GitHub Pages navigation, so the
+     canonical public entry point is the root URL. Client routes live at
+     /#/gallery, /#/packages and /#/contact. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://karanpaul5248.github.io/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

@@ -1,0 +1,22 @@
+KARAN KREATION — READY-TO-UPLOAD LIVE SITE (built version)
+============================================================
+These are the FINISHED, built website files — not source code.
+They work with GitHub Pages set to "Deploy from a branch" (main / root).
+No build step, no GitHub Actions, no .github folder needed for this fix.
+
+Upload ALL of these to the ROOT of the repository named exactly:
+    karanpaul5248.github.io
+- index.html   (replaces the index.html currently in the repo)
+- assets/      (whole folder — the website's code and photos)
+- favicon.svg
+- robots.txt
+- sitemap.xml
+
+Then open:  https://karanpaul5248.github.io/
+Gallery:    https://karanpaul5248.github.io/#/gallery
+Packages:   https://karanpaul5248.github.io/#/packages
+Contact:    https://karanpaul5248.github.io/#/contact
+
+Note: the contact form still needs the one-time Formspree setup from
+INSTRUCTIONS_v5.txt section 11 before it can send email. Until then the
+Contact page shows your email address, Karankang190@gmail.com.
