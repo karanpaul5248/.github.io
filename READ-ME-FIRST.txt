@@ -1,30 +1,36 @@
-KARAN KREATION — UPDATED LIVE SITE FILES (with the new images/ folder system)
-=============================================================================
-Upload ALL of these to the ROOT of the repository  karanpaul5248.github.io
-(replacing the files that are there now):
-- index.html   (replaces existing)
-- assets/      (whole folder, replaces/updates existing)
-- images/      (NEW — this is YOUR photo folder, see below)
-- favicon.svg, robots.txt, sitemap.xml
+KARAN KREATION — FINAL COMPLETE SITE v6.0 (clean reset edition)
+================================================================
+This ZIP is the WHOLE finished website, nothing missing:
+- Your two photos are INSIDE it: the valley/river photo is the hero,
+  the lake photo is the Films-section photo (both saved as
+  images/hero.jpg + images/story.jpg AND as the assets backups).
+- NEW torn-paper effect: torn edges with 3D cracked rims under the
+  hero, over the Films photo and above the footer, with a lightning
+  flash-crack (blue lead, red echo) racing along the tear.
+- Lightning storm upgraded: blue now clearly leads (about 7 of 10
+  strikes), red supports. If your site still looked red, it was old
+  leftover files — this clean reset fixes exactly that.
 
-Keep GitHub Pages set to "Deploy from a branch" (main / root). Wait ~2
-minutes, hard-refresh https://karanpaul5248.github.io/
+CLEAN RESET — DO THIS, IN ORDER (10 minutes):
+1. In the GitHub repo, DELETE every file and folder you see at the
+   top level (assets, images, public, src, index.html, package.json,
+   package-lock.json, tsconfig.json, vite.config.ts,
+   INSTRUCTIONS_v5.txt, READ-ME-FIRST.txt, README.md, favicon.svg,
+   robots.txt, sitemap.xml). Yes, everything. This ZIP replaces it all.
+   (GitHub web: open a file/folder > ... menu > Delete. For folders,
+   you may need to delete the files inside them first — or use
+   GitHub Desktop where folders delete in one click.)
+2. Upload EVERYTHING inside this "upload-everything" folder:
+   index.html, assets/, images/, favicon.svg, robots.txt, sitemap.xml
+3. Keep Settings > Pages on "Deploy from a branch", main, / (root).
+4. Wait 2 minutes, hard-refresh (Ctrl+Shift+R), or use a private window.
 
-================ YOUR PHOTOS — NO CODE EDITING, EVER ================
-The website now finds your photos BY NAME in the images folder:
+NOTE: if you had already uploaded your own gallery photos into the
+repo's images/gallery/ folder, download them first — step 1 deletes
+them from GitHub (your copies on your computer are unaffected, and you
+can re-upload them into images/gallery/ right after the reset, using
+the same wedding-01, wedding-02... names).
 
-  images/hero.jpg                  = Home page hero photo (optional)
-  images/story.jpg                 = Home page "Films" photo (optional)
-  images/gallery/wedding-01.jpg    = Weddings       (up to wedding-40)
-  images/gallery/prewedding-01.jpg = Pre-Wedding    (up to -30)
-  images/gallery/portrait-01.jpg   = Portraits      (up to -30)
-  images/gallery/event-01.jpg      = Events         (up to -30)
-  images/gallery/music-01.jpg      = Music Videos   (up to -24)
-  images/gallery/travel-01.jpg     = Travel         (up to -40)
-  images/gallery/commercial-01.jpg = Commercial     (up to -24)
-
-RULES: all lowercase, .jpg only, two-digit numbers (01, 02, 03...),
-number in order with NO gaps.
-As soon as ONE photo is in images/gallery/, all stock placeholder
-photos vanish and only your work shows. Delete a file = photo removed.
-Full guide: images/PUT-YOUR-PHOTOS-HERE.txt and images/gallery/NAMING-GUIDE.txt
+YOUR PHOTOS AFTER THE RESET: same simple system as before —
+hero.jpg and story.jpg live in images/, gallery photos go in
+images/gallery/ named wedding-01.jpg, wedding-02.jpg, etc.
