@@ -1,0 +1,18 @@
+RENAME YOUR PHOTOS EXACTLY LIKE THIS (all lowercase, .jpg, no gaps in numbers):
+================================================================================
+Weddings ....... wedding-01.jpg, wedding-02.jpg, ... up to wedding-40.jpg
+Pre-Wedding .... prewedding-01.jpg ... up to prewedding-30.jpg
+Portraits ...... portrait-01.jpg ... up to portrait-30.jpg
+Events ......... event-01.jpg ... up to event-30.jpg
+Music Videos ... music-01.jpg ... up to music-24.jpg
+Travel ......... travel-01.jpg ... up to travel-40.jpg
+Commercial ..... commercial-01.jpg ... up to commercial-24.jpg
+
+- Always two-digit numbers: 01, 02, 03 ... 10, 11 ... (not 1, 2, 3)
+- Number in order WITHOUT gaps (01,02,03 — not 01,03,07).
+- Only .jpg files. If a photo is .png or .jpeg, export/convert it to .jpg first.
+- Web size is best: about 1600-2000px on the long edge keeps the site fast.
+- Upload this whole gallery folder into images/ in the GitHub repo.
+- The moment at least one photo exists here, ALL temporary stock photos
+  disappear from the website and only your real work is shown.
+- To remove a photo from the website, delete its file on GitHub.

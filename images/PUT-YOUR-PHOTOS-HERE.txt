@@ -1,0 +1,6 @@
+PUT YOUR PHOTOS IN THIS FOLDER — no code editing, ever.
+=========================================================
+1) Rename the Home hero photo to:        hero.jpg        (put it in THIS folder)
+2) Rename the Home "Films" photo to:     story.jpg       (put it in THIS folder, optional)
+3) All gallery photos go in the          gallery         subfolder — see its guide.
+Then upload the whole images folder to GitHub (drag & drop). Reload the site. Done.

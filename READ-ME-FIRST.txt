@@ -1,22 +1,30 @@
-KARAN KREATION — READY-TO-UPLOAD LIVE SITE (built version)
-============================================================
-These are the FINISHED, built website files — not source code.
-They work with GitHub Pages set to "Deploy from a branch" (main / root).
-No build step, no GitHub Actions, no .github folder needed for this fix.
+KARAN KREATION — UPDATED LIVE SITE FILES (with the new images/ folder system)
+=============================================================================
+Upload ALL of these to the ROOT of the repository  karanpaul5248.github.io
+(replacing the files that are there now):
+- index.html   (replaces existing)
+- assets/      (whole folder, replaces/updates existing)
+- images/      (NEW — this is YOUR photo folder, see below)
+- favicon.svg, robots.txt, sitemap.xml
 
-Upload ALL of these to the ROOT of the repository named exactly:
-    karanpaul5248.github.io
-- index.html   (replaces the index.html currently in the repo)
-- assets/      (whole folder — the website's code and photos)
-- favicon.svg
-- robots.txt
-- sitemap.xml
+Keep GitHub Pages set to "Deploy from a branch" (main / root). Wait ~2
+minutes, hard-refresh https://karanpaul5248.github.io/
 
-Then open:  https://karanpaul5248.github.io/
-Gallery:    https://karanpaul5248.github.io/#/gallery
-Packages:   https://karanpaul5248.github.io/#/packages
-Contact:    https://karanpaul5248.github.io/#/contact
+================ YOUR PHOTOS — NO CODE EDITING, EVER ================
+The website now finds your photos BY NAME in the images folder:
 
-Note: the contact form still needs the one-time Formspree setup from
-INSTRUCTIONS_v5.txt section 11 before it can send email. Until then the
-Contact page shows your email address, Karankang190@gmail.com.
+  images/hero.jpg                  = Home page hero photo (optional)
+  images/story.jpg                 = Home page "Films" photo (optional)
+  images/gallery/wedding-01.jpg    = Weddings       (up to wedding-40)
+  images/gallery/prewedding-01.jpg = Pre-Wedding    (up to -30)
+  images/gallery/portrait-01.jpg   = Portraits      (up to -30)
+  images/gallery/event-01.jpg      = Events         (up to -30)
+  images/gallery/music-01.jpg      = Music Videos   (up to -24)
+  images/gallery/travel-01.jpg     = Travel         (up to -40)
+  images/gallery/commercial-01.jpg = Commercial     (up to -24)
+
+RULES: all lowercase, .jpg only, two-digit numbers (01, 02, 03...),
+number in order with NO gaps.
+As soon as ONE photo is in images/gallery/, all stock placeholder
+photos vanish and only your work shows. Delete a file = photo removed.
+Full guide: images/PUT-YOUR-PHOTOS-HERE.txt and images/gallery/NAMING-GUIDE.txt
