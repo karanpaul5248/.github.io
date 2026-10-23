@@ -1,0 +1,53 @@
+====================================================================
+  KARAN KREATION — THE videos/ FOLDER (DRONE VIDEOS, HOME PAGE ONLY)
+====================================================================
+
+The website finds your drone videos AUTOMATICALLY from this folder.
+No code editing, ever. You only rename files and upload them here.
+
+--------------------------------------------------------------------
+WHAT GOES WHERE
+--------------------------------------------------------------------
+  featured.mp4    ->  THE BIG VIDEO at the top of the drone section
+                      on the Home page (your best drone shot)
+  drone-01.mp4    ->  slideshow video 1
+  drone-02.mp4    ->  slideshow video 2
+  drone-03.mp4    ->  slideshow video 3
+  drone-04.mp4    ->  slideshow video 4
+  drone-05.mp4    ->  slideshow video 5
+  drone-06.mp4    ->  slideshow video 6
+  drone-07.mp4    ->  (optional extra)
+  drone-08.mp4    ->  (optional extra)
+
+OPTIONAL POSTER PHOTOS (a still photo shown before each video plays):
+  featured.jpg    ->  poster for the big video
+  drone-01.jpg    ->  poster for slideshow video 1 (same number, .jpg)
+
+--------------------------------------------------------------------
+THE RULES (same spirit as the images/ folder)
+--------------------------------------------------------------------
+1. FORMAT: .mp4 only (H.264). Capital .MP4 works too.
+   iPhone/drone .MOV files: export or convert them to .mp4 first —
+   .mov does not play in every browser.
+
+2. NUMBER IN ORDER, NO GAPS: 01, 02, 03 ...
+   If drone-03 is missing but drone-04 exists, the slideshow may
+   stop early. Keep the numbers continuous.
+
+3. KEEP FILES WEB-SIZED: 1080p is perfect. Aim for under ~25 MB
+   per video (short clips, 15–60 seconds) so the page stays fast
+   on phones. GitHub refuses single files over 100 MB anyway.
+
+4. REPLACING a video: upload the new file with the EXACT same name
+   and let GitHub overwrite it. Give the site ~10 minutes (GitHub
+   Pages cache) and hard-refresh.
+
+5. DELETING a video file here removes it from the website.
+
+6. Until a file exists, its frame shows as an elegant empty
+   placeholder with the file name written on it — so you can see
+   exactly what is still missing.
+
+The drone section lives on the HOME page only (under the photo
+section) — it does not appear on the Gallery page.
+====================================================================
